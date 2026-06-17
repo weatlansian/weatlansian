@@ -1,9 +1,9 @@
 <div align="center">
-  <!-- A dynamic wave banner with your company name and tagline -->
+  <!-- Dynamic wave banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Atlansian&fontSize=80&fontAlignY=35&desc=Bridging%20business%20and%20technology&descAlignY=60&descSize=20&fontColor=ffffff" alt="Atlansian Banner" />
 </div>
 
-<h3 align="center">Building scalable web and mobile applications for the modern web.</h3>
+<h3 align="center">Engineering scalable SaaS, Enterprise, AI, and Web3 solutions.</h3>
 
 <div align="center">
   <a href="https://www.atlansian.com"><img src="https://img.shields.io/badge/Website-atlansian.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -14,28 +14,55 @@
 <br />
 
 ### 🚀 About Us
-At **Atlansian**, we turn complex business challenges into elegant, high-performance software solutions. With a strong foundation in modern web technologies, AI integrations, and cloud infrastructure, we deliver products that are built to scale. 
+At **Atlansian**, we are a comprehensive technology partner specializing in end-to-end software architecture. We build robust, scalable products that bridge the gap between complex business requirements and modern technological execution. 
 
-- 🌍 **Location:** Jaipur, Rajasthan, India
-- 💻 **Focus:** SaaS, E-commerce, DApps, and seamless API integrations.
-- 🤝 **Collaboration:** We work closely with our partners to ensure practical, stable, and user-friendly products.
+- 🌍 **Location:** Jaipur, Rajasthan, India[cite: 1]
+- 💻 **Core Domains:** SaaS Platforms, Enterprise Cloud Infrastructure, AI & RAG Systems, and Decentralized Applications (DApps)[cite: 1].
+- 🤝 **Culture:** We prioritize cloud-agnostic stability, high-traffic performance, and clean codebases built on SOLID and DRY principles[cite: 1].
 
-### 🛠️ Our Core Technologies
+<br />
+
+### 🛠️ Our Comprehensive Tech Stack
+
+#### AI, RAG & Blockchain
 <div align="left">
-  <!-- Tech stack icons from Devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/RAG_Systems-FF5A5F?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Architecture" />
+  <img src="https://img.shields.io/badge/Claude_&_Gemini-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+</div>
+
+#### Multi-Cloud & DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</div>
+
+#### Backend & Databases
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</div>
+
+#### Frontend & Mobile
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
 <br />
