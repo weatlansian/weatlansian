@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic wave banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Atlansian&fontSize=80&fontAlignY=35&desc=Bridging%20business%20and%20technology&descAlignY=60&descSize=20&fontColor=ffffff" alt="Atlansian Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Atlansian&fontSize=80&fontAlignY=35&desc=Business%20with%20technology&descAlignY=60&descSize=20&fontColor=ffffff" alt="Atlansian Banner" />
 
   <h2>🚀 Engineering scalable SaaS, Enterprise, AI, and Web3 solutions.</h2>
 
